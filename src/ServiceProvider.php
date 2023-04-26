@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace BombenProdukt\CookieConsent;
 
-use Livewire\Livewire;
 use BombenProdukt\CookieConsent\Http\Livewire\CookieConsentDialog;
 use BombenProdukt\PackagePowerPack\Package\AbstractServiceProvider;
+use Livewire\Livewire;
 
 final class ServiceProvider extends AbstractServiceProvider
 {

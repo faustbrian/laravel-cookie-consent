@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace Tests\Feature\Http\Livewire;
 
+use BombenProdukt\CookieConsent\Http\Livewire\CookieConsentDialog;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Cookie;
 use Livewire\Livewire;
-use BombenProdukt\CookieConsent\Http\Livewire\CookieConsentDialog;
 
 it('should render with the "bottom-left" style', function (): void {
     $component = Livewire::test(CookieConsentDialog::class);
