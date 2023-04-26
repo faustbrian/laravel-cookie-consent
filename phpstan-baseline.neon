@@ -1,0 +1,6 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Parameter \\#1 \\$key of static method Illuminate\\\\Support\\\\Facades\\\\Cookie\\:\\:get\\(\\) expects string\\|null, mixed given\\.$#"
+			count: 1
+			path: src/Http/Livewire/CookieConsentDialog.php
