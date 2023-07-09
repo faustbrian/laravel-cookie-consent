@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/laravel-cookie-consent/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/laravel-cookie-consent" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-cookie-consent">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/laravel-cookie-consent" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-cookie-consent">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/laravel-cookie-consent" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-cookie-consent">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/laravel-cookie-consent" alt="License" />
-    </a>
-</p>
 
 ## About Laravel Cookie Consent
 
