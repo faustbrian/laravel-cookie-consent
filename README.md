@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/BombenProdukt/laravel-cookie-consent/actions">
+    <a href="https://github.com/faustbrian/laravel-cookie-consent/actions">
         <img src="https://badge.sh/github/check-runs/BombenProdukt/laravel-cookie-consent" alt="Checks" />
     </a>
     <a href="https://packagist.org/packages/bombenprodukt/laravel-cookie-consent">
@@ -21,7 +21,7 @@
 
 ## About Laravel Cookie Consent
 
-This project was created by, and is maintained by [BombenProdukt](https://github.com/BombenProdukt), and is a package to integrate cookie consent into Laravel. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
+This project was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and is a package to integrate cookie consent into Laravel. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
 
 ## Installation
 
