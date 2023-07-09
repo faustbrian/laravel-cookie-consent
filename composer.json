@@ -14,7 +14,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/BombenProdukt/laravel-cookie-consent",
+    "homepage": "https://github.com/faustbrian/laravel-cookie-consent",
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^10.0",
