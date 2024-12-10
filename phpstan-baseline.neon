@@ -1,0 +1,26 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Cannot call method in\\(\\) on iterable\\<SplFileInfo\\>\\.$#"
+			count: 1
+			path: .php-cs-fixer.php
+
+		-
+			message: "#^Parameter \\#1 \\$key of static method Illuminate\\\\Support\\\\Facades\\\\Cookie\\:\\:get\\(\\) expects string\\|null, mixed given\\.$#"
+			count: 1
+			path: src/Http/Livewire/CookieConsentDialog.php
+
+		-
+			message: "#^Dynamic call to static method Illuminate\\\\Testing\\\\TestResponse\\<Symfony\\\\Component\\\\HttpFoundation\\\\Response\\>\\:\\:assertStatus\\(\\)\\.$#"
+			count: 6
+			path: tests/Feature/Http/Livewire/CookieConsentDialogTest.php
+
+		-
+			message: "#^Undefined variable\\: \\$this$#"
+			count: 1
+			path: tests/Pest.php
+
+		-
+			message: "#^Method Tests\\\\TestCase\\:\\:getRequiredServiceProviders\\(\\) return type has no value type specified in iterable type array\\.$#"
+			count: 1
+			path: tests/TestCase.php
